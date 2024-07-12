@@ -1,13 +1,13 @@
-package agileengine.com.product_api;
+package aggileengine.com.product;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ProductApiApplication {
+public class Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ProductApiApplication.class, args);
+		SpringApplication.run(Application.class, args);
 	}
 
 }
